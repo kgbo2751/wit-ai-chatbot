@@ -1,4 +1,4 @@
-Visual Studio Code (IDE) + Python + HTML/CSS/Javascript + Firebase (Database, NoSQL) + Flask + Wit.ai (Chatbot API) + Libretranslate (Localization)
+Visual Studio Code (IDE) + Python + HTML/CSS/Javascript + Firebase (Database, NoSQL) + Flask + Wit.ai (Chatbot API) + Libretranslate (Localization) + Dotenv (Library)
 
 쇼핑몰 고객지원 챗봇 Helpbot<br>
 <img width="1919" height="1035" alt="구조" src="https://github.com/user-attachments/assets/c1c1579e-3958-4865-9145-6a136ffbbfe1" /><br>
